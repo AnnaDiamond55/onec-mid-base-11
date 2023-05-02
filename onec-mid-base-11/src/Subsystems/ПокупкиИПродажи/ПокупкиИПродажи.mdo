@@ -10,8 +10,6 @@
   <picture xsi:type="core:PictureRef">
     <picture>CommonPicture.ИконкаНетология</picture>
   </picture>
-  <content>Catalog.Доп_КонтактныеЛица</content>
-  <content>Catalog.Доп_Должность</content>
   <subsystems>Справочники</subsystems>
   <subsystems>Операции</subsystems>
 </mdclass:Subsystem>
